@@ -1,3 +1,4 @@
+import numpy as np
 lst = list(map(int,input().split()))
 out = np.array(lst)
 print(lst ,type(lst))
